@@ -1,2 +1,2 @@
 # 01-code-wars
-This my solution to the second Code Wars Kata.
+This my solution to the second Code Wars Kata. Due to computer issues, I fell behind in submiting this and was unable to locate the original repo @ https://github.com/seattle-301d36 in order to fork it. I will resubmit if necessary once I can locate the correct repo for this lab.
